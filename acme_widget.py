@@ -1,4 +1,3 @@
-import json
 
 product_dict={'B01':7.95,
               'G01':24.95,
