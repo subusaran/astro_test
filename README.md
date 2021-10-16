@@ -3,7 +3,7 @@
 I have initialized the products catalogue as a dictonary which can be replaced with a NoSQL database like MongoDB or DynamoDB 
 
 This doesn't have an interactive UI , rather it can be used as a python utility 
-
+Python file : acme_widget.py
 On running the code , it would display the list of products and it's price and ask to enter the code to add to the cart
 
 ProductCode Price     
